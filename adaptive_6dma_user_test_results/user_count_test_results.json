@@ -1,0 +1,72 @@
+{
+  "30": {
+    "ground_users": 30,
+    "air_users": 0,
+    "total_users": 30,
+    "circular_avg_rate": 590.8210207380181,
+    "circular_std": 72.29130448121984,
+    "circular_max": 708.3528184313553,
+    "circular_min": 461.1563595038806,
+    "rotation_avg_rate": 646.6528961821282,
+    "rotation_std": 71.63475239755786,
+    "rotation_max": 826.1676777213046,
+    "rotation_min": 534.0302214704986,
+    "rotation_vs_circular_improvement": 9.449879656341318
+  },
+  "35": {
+    "ground_users": 35,
+    "air_users": 0,
+    "total_users": 35,
+    "circular_avg_rate": 631.5373900057384,
+    "circular_std": 74.12962540804679,
+    "circular_max": 782.663997414917,
+    "circular_min": 465.05152932445037,
+    "rotation_avg_rate": 682.3712143624756,
+    "rotation_std": 86.66383267286436,
+    "rotation_max": 885.7002823967348,
+    "rotation_min": 485.2902712020139,
+    "rotation_vs_circular_improvement": 8.0492184882791
+  },
+  "40": {
+    "ground_users": 40,
+    "air_users": 0,
+    "total_users": 40,
+    "circular_avg_rate": 661.5432894329003,
+    "circular_std": 73.53121277592015,
+    "circular_max": 871.0838231801922,
+    "circular_min": 519.9516880706076,
+    "rotation_avg_rate": 713.6017328528595,
+    "rotation_std": 96.5116540468804,
+    "rotation_max": 995.4024494204215,
+    "rotation_min": 571.0136255371613,
+    "rotation_vs_circular_improvement": 7.869242157166409
+  },
+  "45": {
+    "ground_users": 45,
+    "air_users": 0,
+    "total_users": 45,
+    "circular_avg_rate": 706.9750798822122,
+    "circular_std": 88.01024083064961,
+    "circular_max": 958.1775148930375,
+    "circular_min": 577.2870336313971,
+    "rotation_avg_rate": 743.7866570116698,
+    "rotation_std": 101.55924830196832,
+    "rotation_max": 961.816133797396,
+    "rotation_min": 534.251987615788,
+    "rotation_vs_circular_improvement": 5.206912970056987
+  },
+  "50": {
+    "ground_users": 50,
+    "air_users": 0,
+    "total_users": 50,
+    "circular_avg_rate": 725.8266545500817,
+    "circular_std": 101.15848234837492,
+    "circular_max": 973.8442623169349,
+    "circular_min": 592.7640630910964,
+    "rotation_avg_rate": 784.8044482755674,
+    "rotation_std": 95.96375416138399,
+    "rotation_max": 1034.2282698532583,
+    "rotation_min": 647.4397781109532,
+    "rotation_vs_circular_improvement": 8.125603180286117
+  }
+}

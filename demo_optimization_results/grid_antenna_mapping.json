@@ -1,0 +1,282 @@
+{
+  "total_grids": 800,
+  "top_antenna_positions": [
+    {
+      "position_idx": 171,
+      "position": [
+        150.49854189349875,
+        150.8634998892414,
+        19.923685376848578
+      ],
+      "average_rate_mbps": 10.116076121664996,
+      "max_rate_mbps": 59.5908994810823,
+      "coverage_count": 729,
+      "composite_score": 7380.5785826418905
+    },
+    {
+      "position_idx": 169,
+      "position": [
+        150.99708378699748,
+        150.0,
+        19.923685376848578
+      ],
+      "average_rate_mbps": 12.350430553686872,
+      "max_rate_mbps": 57.41146910758083,
+      "coverage_count": 585,
+      "composite_score": 7230.743020817578
+    },
+    {
+      "position_idx": 193,
+      "position": [
+        150.96204711983225,
+        150.0,
+        19.727116619739345
+      ],
+      "average_rate_mbps": 14.285866691420592,
+      "max_rate_mbps": 61.763282054876,
+      "coverage_count": 486,
+      "composite_score": 6949.107540235895
+    },
+    {
+      "position_idx": 157,
+      "position": [
+        150.99708378699748,
+        150.0,
+        20.076314623151422
+      ],
+      "average_rate_mbps": 14.605520968323157,
+      "max_rate_mbps": 60.21006536061692,
+      "coverage_count": 459,
+      "composite_score": 6709.955130996391
+    },
+    {
+      "position_idx": 159,
+      "position": [
+        150.49854189349875,
+        150.8634998892414,
+        20.076314623151422
+      ],
+      "average_rate_mbps": 9.101822522960031,
+      "max_rate_mbps": 62.857566551795436,
+      "coverage_count": 729,
+      "composite_score": 6641.514375893042
+    },
+    {
+      "position_idx": 183,
+      "position": [
+        150.49224188581218,
+        150.85258795584022,
+        19.824524350953592
+      ],
+      "average_rate_mbps": 9.809863694289835,
+      "max_rate_mbps": 60.37594746010385,
+      "coverage_count": 657,
+      "composite_score": 6451.118041894432
+    },
+    {
+      "position_idx": 195,
+      "position": [
+        150.4810235599161,
+        150.83315724541237,
+        19.727116619739345
+      ],
+      "average_rate_mbps": 8.828833361292775,
+      "max_rate_mbps": 56.489748619939334,
+      "coverage_count": 684,
+      "composite_score": 6044.570993986252
+    },
+    {
+      "position_idx": 162,
+      "position": [
+        149.1365001107586,
+        150.49854189349875,
+        20.076314623151422
+      ],
+      "average_rate_mbps": 8.477854396489596,
+      "max_rate_mbps": 56.5675128280972,
+      "coverage_count": 684,
+      "composite_score": 5804.509158481693
+    },
+    {
+      "position_idx": 205,
+      "position": [
+        150.92999801122926,
+        150.0,
+        19.632435449057407
+      ],
+      "average_rate_mbps": 14.255426590629478,
+      "max_rate_mbps": 58.04789772773711,
+      "coverage_count": 405,
+      "composite_score": 5779.252558977712
+    },
+    {
+      "position_idx": 165,
+      "position": [
+        149.50145810650125,
+        149.1365001107586,
+        20.076314623151422
+      ],
+      "average_rate_mbps": 8.422387785883942,
+      "max_rate_mbps": 55.168885220888534,
+      "coverage_count": 657,
+      "composite_score": 5539.025663847839
+    }
+  ],
+  "config_statistics_summary": {
+    "total_configs": 8000,
+    "top_positions": [
+      {
+        "position_idx": 162,
+        "position": [
+          149.1365001107586,
+          150.49854189349875,
+          20.076314623151422
+        ],
+        "frequency": 118,
+        "avg_rate_mbps": 31.684275313133014,
+        "avg_rank": 4.5423728813559325,
+        "grids_served": 29
+      },
+      {
+        "position_idx": 165,
+        "position": [
+          149.50145810650125,
+          149.1365001107586,
+          20.076314623151422
+        ],
+        "frequency": 104,
+        "avg_rate_mbps": 30.896733681532233,
+        "avg_rank": 4.115384615384615,
+        "grids_served": 29
+      },
+      {
+        "position_idx": 171,
+        "position": [
+          150.49854189349875,
+          150.8634998892414,
+          19.923685376848578
+        ],
+        "frequency": 96,
+        "avg_rate_mbps": 36.728304533193416,
+        "avg_rank": 5.84375,
+        "grids_served": 28
+      },
+      {
+        "position_idx": 168,
+        "position": [
+          150.8634998892414,
+          149.50145810650125,
+          20.076314623151422
+        ],
+        "frequency": 90,
+        "avg_rate_mbps": 29.408790227519567,
+        "avg_rank": 4.5777777777777775,
+        "grids_served": 20
+      },
+      {
+        "position_idx": 159,
+        "position": [
+          150.49854189349875,
+          150.8634998892414,
+          20.076314623151422
+        ],
+        "frequency": 87,
+        "avg_rate_mbps": 40.63559367376237,
+        "avg_rank": 5.32183908045977,
+        "grids_served": 22
+      },
+      {
+        "position_idx": 183,
+        "position": [
+          150.49224188581218,
+          150.85258795584022,
+          19.824524350953592
+        ],
+        "frequency": 86,
+        "avg_rate_mbps": 37.88165200851326,
+        "avg_rank": 4.755813953488372,
+        "grids_served": 26
+      },
+      {
+        "position_idx": 180,
+        "position": [
+          150.8634998892414,
+          149.50145810650125,
+          19.923685376848578
+        ],
+        "frequency": 85,
+        "avg_rate_mbps": 31.927091705216036,
+        "avg_rank": 5.188235294117647,
+        "grids_served": 24
+      },
+      {
+        "position_idx": 157,
+        "position": [
+          150.99708378699748,
+          150.0,
+          20.076314623151422
+        ],
+        "frequency": 83,
+        "avg_rate_mbps": 36.83696321486052,
+        "avg_rank": 5.566265060240964,
+        "grids_served": 14
+      },
+      {
+        "position_idx": 167,
+        "position": [
+          150.49854189349875,
+          149.1365001107586,
+          20.076314623151422
+        ],
+        "frequency": 81,
+        "avg_rate_mbps": 38.96997061283389,
+        "avg_rank": 4.962962962962963,
+        "grids_served": 20
+      },
+      {
+        "position_idx": 177,
+        "position": [
+          149.50145810650125,
+          149.1365001107586,
+          19.923685376848578
+        ],
+        "frequency": 79,
+        "avg_rate_mbps": 31.446041814594242,
+        "avg_rank": 6.0886075949367084,
+        "grids_served": 26
+      }
+    ],
+    "rotation_effectiveness": [
+      {
+        "rotation_type": "face_SE",
+        "frequency": 2414,
+        "avg_rate_mbps": 30.910673282821527,
+        "avg_rank": 5.444904722452361
+      },
+      {
+        "rotation_type": "face_N",
+        "frequency": 2466,
+        "avg_rate_mbps": 30.83188186505158,
+        "avg_rank": 5.384833738848338
+      },
+      {
+        "rotation_type": "radial",
+        "frequency": 2440,
+        "avg_rate_mbps": 30.751445946928737,
+        "avg_rank": 5.473360655737705
+      },
+      {
+        "rotation_type": "face_S",
+        "frequency": 193,
+        "avg_rate_mbps": 30.273483407188934,
+        "avg_rank": 5.803108808290156
+      },
+      {
+        "rotation_type": "face_NW",
+        "frequency": 206,
+        "avg_rate_mbps": 27.01130353700859,
+        "avg_rank": 6.121359223300971
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "total_grids": 800,
+  "ground_grids_count": 400,
+  "air_grids_count": 400,
+  "ground_stats": {
+    "mean": 20.059668920026574,
+    "max": 64.01936322662087,
+    "min": 0.0014696119348265924,
+    "std": 8.762209995050151
+  },
+  "air_stats": {
+    "mean": 18.092767388109472,
+    "max": 90.66651069458405,
+    "min": 0.008359037316130493,
+    "std": 8.911848634057534
+  },
+  "best_grid": {
+    "grid_id": 499,
+    "performance": 90.66651069458405,
+    "type": "air",
+    "position": [
+      67.5,
+      292.5,
+      75.0
+    ]
+  },
+  "worst_grid": {
+    "grid_id": 0,
+    "performance": 0.0014696119348265924,
+    "type": null,
+    "position": null
+  }
+}

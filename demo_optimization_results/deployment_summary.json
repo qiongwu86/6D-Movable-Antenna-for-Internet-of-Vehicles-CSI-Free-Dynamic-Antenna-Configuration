@@ -1,0 +1,408 @@
+{
+  "recommended_positions": [
+    {
+      "position_idx": 0,
+      "position": [
+        150.0,
+        150.0,
+        21.0
+      ],
+      "new_coverage": 2,
+      "covered_grids": [
+        590,
+        610
+      ],
+      "composite_score": 0.005299229223287699
+    },
+    {
+      "position_idx": 72,
+      "position": [
+        150.55419581369407,
+        149.68003489777996,
+        20.768433037710707
+      ],
+      "new_coverage": 6,
+      "covered_grids": [
+        627,
+        628,
+        645,
+        647,
+        665,
+        666
+      ],
+      "composite_score": 0.004487376455673963
+    },
+    {
+      "position_idx": 84,
+      "position": [
+        150.61786453787008,
+        149.64327574273798,
+        20.700707654534646
+      ],
+      "new_coverage": 5,
+      "covered_grids": [
+        664,
+        667,
+        686,
+        703,
+        722
+      ],
+      "composite_score": 0.003894950279669089
+    },
+    {
+      "position_idx": 97,
+      "position": [
+        150.83843616490486,
+        150.0,
+        20.544999814109715
+      ],
+      "new_coverage": 13,
+      "covered_grids": [
+        305,
+        688,
+        689,
+        706,
+        707,
+        709,
+        726,
+        729,
+        746,
+        748,
+        749,
+        768,
+        769
+      ],
+      "composite_score": 0.0036050480239243543
+    },
+    {
+      "position_idx": 85,
+      "position": [
+        150.7798382828856,
+        150.0,
+        20.62598103209763
+      ],
+      "new_coverage": 2,
+      "covered_grids": [
+        669,
+        687
+      ],
+      "composite_score": 0.003292382199514918
+    },
+    {
+      "position_idx": 70,
+      "position": [
+        150.0,
+        149.36006979555995,
+        20.768433037710707
+      ],
+      "new_coverage": 6,
+      "covered_grids": [
+        285,
+        544,
+        565,
+        566,
+        586,
+        587
+      ],
+      "composite_score": 0.0032768770809761903
+    },
+    {
+      "position_idx": 68,
+      "position": [
+        149.44580418630593,
+        149.68003489777996,
+        20.768433037710707
+      ],
+      "new_coverage": 9,
+      "covered_grids": [
+        85,
+        469,
+        490,
+        508,
+        509,
+        528,
+        529,
+        548,
+        549
+      ],
+      "composite_score": 0.0032568785313542774
+    },
+    {
+      "position_idx": 78,
+      "position": [
+        149.38213546212992,
+        150.35672425726202,
+        20.700707654534646
+      ],
+      "new_coverage": 5,
+      "covered_grids": [
+        533,
+        552,
+        553,
+        554,
+        571
+      ],
+      "composite_score": 0.003207295086091383
+    },
+    {
+      "position_idx": 37,
+      "position": [
+        150.47451012816,
+        150.0,
+        20.880250043040938
+      ],
+      "new_coverage": 3,
+      "covered_grids": [
+        629,
+        648,
+        649
+      ],
+      "composite_score": 0.003133313556903689
+    },
+    {
+      "position_idx": 58,
+      "position": [
+        150.0,
+        149.43998207671387,
+        20.828480491984156
+      ],
+      "new_coverage": 2,
+      "covered_grids": [
+        567,
+        588
+      ],
+      "composite_score": 0.0031271278277139143
+    },
+    {
+      "position_idx": 80,
+      "position": [
+        149.38213546212992,
+        149.64327574273798,
+        20.700707654534646
+      ],
+      "new_coverage": 2,
+      "covered_grids": [
+        488,
+        489
+      ],
+      "composite_score": 0.0030190173754366103
+    },
+    {
+      "position_idx": 67,
+      "position": [
+        149.36006979555995,
+        150.0,
+        20.768433037710707
+      ],
+      "new_coverage": 3,
+      "covered_grids": [
+        531,
+        550,
+        570
+      ],
+      "composite_score": 0.0029453955295337727
+    },
+    {
+      "position_idx": 46,
+      "position": [
+        150.0,
+        149.52548987184,
+        20.880250043040938
+      ],
+      "new_coverage": 2,
+      "covered_grids": [
+        143,
+        568
+      ],
+      "composite_score": 0.002632251314122937
+    },
+    {
+      "position_idx": 55,
+      "position": [
+        149.43998207671387,
+        150.0,
+        20.828480491984156
+      ],
+      "new_coverage": 3,
+      "covered_grids": [
+        49,
+        530,
+        551
+      ],
+      "composite_score": 0.002596307132281853
+    },
+    {
+      "position_idx": 109,
+      "position": [
+        150.88865666991452,
+        150.0,
+        20.4585731381322
+      ],
+      "new_coverage": 7,
+      "covered_grids": [
+        708,
+        728,
+        747,
+        766,
+        778,
+        786,
+        787
+      ],
+      "composite_score": 0.0025730667200756538
+    },
+    {
+      "position_idx": 241,
+      "position": [
+        150.7798382828856,
+        150.0,
+        19.37401896790237
+      ],
+      "new_coverage": 1,
+      "covered_grids": [
+        229
+      ],
+      "composite_score": 0.0025385504233419965
+    },
+    {
+      "position_idx": 10,
+      "position": [
+        150.0,
+        149.8068148347422,
+        20.98116231680814
+      ],
+      "new_coverage": 1,
+      "covered_grids": [
+        589
+      ],
+      "composite_score": 0.002527763369597836
+    }
+  ],
+  "coverage_summary": {
+    "total_grids": 800,
+    "covered_grids": 72,
+    "coverage_ratio": 0.09,
+    "selected_antenna_count": 17
+  },
+  "top_antenna_positions": [
+    {
+      "position_idx": 0,
+      "position": [
+        150.0,
+        150.0,
+        21.0
+      ],
+      "average_gain": 9.749922533984852e-05,
+      "max_gain": 0.00034271054935879194,
+      "coverage_count": 54,
+      "composite_score": 0.005299229223287699
+    },
+    {
+      "position_idx": 72,
+      "position": [
+        150.55419581369407,
+        149.68003489777996,
+        20.768433037710707
+      ],
+      "average_gain": 1.408454559795103e-05,
+      "max_gain": 0.0005074459231938858,
+      "coverage_count": 315,
+      "composite_score": 0.004487376455673963
+    },
+    {
+      "position_idx": 84,
+      "position": [
+        150.61786453787008,
+        149.64327574273798,
+        20.700707654534646
+      ],
+      "average_gain": 1.4261063833360602e-05,
+      "max_gain": 0.00044463044661726385,
+      "coverage_count": 270,
+      "composite_score": 0.003894950279669089
+    },
+    {
+      "position_idx": 97,
+      "position": [
+        150.83843616490486,
+        150.0,
+        20.544999814109715
+      ],
+      "average_gain": 8.157384804170934e-06,
+      "max_gain": 7.641325284972174e-05,
+      "coverage_count": 441,
+      "composite_score": 0.0036050480239243543
+    },
+    {
+      "position_idx": 85,
+      "position": [
+        150.7798382828856,
+        150.0,
+        20.62598103209763
+      ],
+      "average_gain": 7.903371268274457e-06,
+      "max_gain": 0.00020386494449292728,
+      "coverage_count": 414,
+      "composite_score": 0.003292382199514918
+    },
+    {
+      "position_idx": 70,
+      "position": [
+        150.0,
+        149.36006979555995,
+        20.768433037710707
+      ],
+      "average_gain": 8.820943303512784e-06,
+      "max_gain": 0.0002194900197997276,
+      "coverage_count": 369,
+      "composite_score": 0.0032768770809761903
+    },
+    {
+      "position_idx": 68,
+      "position": [
+        149.44580418630593,
+        149.68003489777996,
+        20.768433037710707
+      ],
+      "average_gain": 1.1972850748826116e-05,
+      "max_gain": 0.00024208829171225914,
+      "coverage_count": 270,
+      "composite_score": 0.0032568785313542774
+    },
+    {
+      "position_idx": 78,
+      "position": [
+        149.38213546212992,
+        150.35672425726202,
+        20.700707654534646
+      ],
+      "average_gain": 9.749641552318604e-06,
+      "max_gain": 0.00048411223140155366,
+      "coverage_count": 324,
+      "composite_score": 0.003207295086091383
+    },
+    {
+      "position_idx": 37,
+      "position": [
+        150.47451012816,
+        150.0,
+        20.880250043040938
+      ],
+      "average_gain": 3.815789185773949e-05,
+      "max_gain": 0.00042524316426790473,
+      "coverage_count": 81,
+      "composite_score": 0.003133313556903689
+    },
+    {
+      "position_idx": 58,
+      "position": [
+        150.0,
+        149.43998207671387,
+        20.828480491984156
+      ],
+      "average_gain": 1.5705929513978553e-05,
+      "max_gain": 0.0001735378394616108,
+      "coverage_count": 198,
+      "composite_score": 0.0031271278277139143
+    }
+  ]
+}
