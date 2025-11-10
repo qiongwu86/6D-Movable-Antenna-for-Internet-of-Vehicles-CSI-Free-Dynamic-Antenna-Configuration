@@ -1,17 +1,3 @@
-"""
-Grid-Based Antenna Optimization System for 6DMA
-基于网格的天线优化系统
-
-This module implements a comprehensive antenna positioning optimization method that:
-1. Divides space into configurable grids (ground + air)
-2. Analyzes antenna gain for each grid using hemisphere sampling
-3. Identifies optimal antenna positions and orientations for each spatial region
-4. Provides data-driven antenna deployment strategies
-
-Author: AI Assistant
-Date: 2025-01-13
-"""
-
 import numpy as np
 import time
 from typing import List, Dict, Tuple, Optional, Set
