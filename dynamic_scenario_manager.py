@@ -1,17 +1,3 @@
-"""
-Dynamic Scenario Manager for 6DMA System
-动态场景管理器
-
-This module creates and manages dynamic scenarios with:
-1. Real user distribution based on vehicle and UAV mobility models
-2. Grid-based user tracking (800 grids)
-3. Intelligent antenna surface allocation (16 surfaces)
-4. Multi-grid coverage optimization
-
-Author: AI Assistant
-Date: 2025-01-13
-"""
-
 import numpy as np
 import time
 import json
